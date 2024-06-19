@@ -141,7 +141,8 @@ def balance_check():
 
 
 # Start the program from here--------->>>>  
-print("\n\n\t\tPrachi Yadav\n*********************************************\n\n\tInternational Bank of python\n\n*********************************************\n")
+print("\n\n\t\tPrachi Yadav\n************************************** *******\n\n\tInternational Bank of python\n\n*********************************************\n")
+
 
 while(True): #Run the loop infinity until user enter "7" 
     print("----------- Here are your Options -----------")
